@@ -102,4 +102,24 @@ echo PATH_SET: %PATH_SET%
 
 setx PATH "%PATH_SET%" /M
 
-
+rem cleanup *****
+set PATH_MIN=
+set MSYS64_PATH=
+set NV_CUDA_PATH=
+set UTILS_PATH=
+set JAVA_PATH=
+set MISC1_PATH=
+set PS_PATH=
+set APPLE_PATH=
+set AWSCLI_PATH=
+set GIT_PATH=
+set NODEJS_PATH=
+set SQLSVR_PATH=
+set DOTNET_PATH=
+set STRAWBERRY_PATH=
+set NV_PHYSX_PATH=
+set CONDA_PATH=
+set CHOCO_PATH=
+set JDK_PATH=
+set NPM_PATH=
+set PATH_SET=
